@@ -2,7 +2,7 @@
 
 meu nome é jamili simplicio
 -estou estudando na plataforma [Alura](https://cursos.alura.com.br/loginForm?logout)
--estou aprendendo a linguagem scratch na plataforma
+-estou aprendendo a linguagem de programaçao na plataforma [Scratch](https://scratch.mit.edu/)
 
 
 
