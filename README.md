@@ -1,13 +1,13 @@
-### olà esse é meu perfil, seja bem vindo ao o incrivel mundo de gumball
+### Olá esse é meu perfil, seja bem vindo ao o incrivel mundo de gumball
 
-meu nome é jamili simplicio 
--estou estudando na plataforma [Alura](https://cursos.alura.com.br/loginForm?logout)
--estou aprendendo a linguagem de programaçao na plataforma [Scratch](https://scratch.mit.edu/)
--utilizo esse espaço para organização e compartilhar meus projetos
+Meu nome é jamili simplicio 
+- Estou estudando na plataforma [Alura](https://cursos.alura.com.br/loginForm?logout)
+- Estou aprendendo a linguagem de programaçao na plataforma [Scratch](https://scratch.mit.edu/)
+- Utilizo esse espaço para organização e compartilhar meus projetos
 
-## vocẽ pode entra em contato comigo pelo
-
-
+## Você pode entra em contato comigo pelo
 
 
-  
+
+
+ ![](https://media.tenor.com/xx4s35K9qRAAAAAM/deadpool-dancing.gif) 
